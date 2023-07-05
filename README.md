@@ -14,6 +14,7 @@
 	- stages of the event
 	- speakers/presenters
 - certificate generation.
+- marking attendance if registered
 # Account page
 -  upcoming events.
 - past events that the participant has participated in.
