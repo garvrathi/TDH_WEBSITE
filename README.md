@@ -13,11 +13,12 @@
 	- entry fee
 	- stages of the event
 	- speakers/presenters
-- certificate generation.
+
 - marking attendance if registered
 # Account page
 -  upcoming events.
 - past events that the participant has participated in.
+- certificate generation.
 
 # Dedicated all events page
 - live event(s).
@@ -34,3 +35,6 @@
 - asks for your email ID and password.
 - if not registered will open a registration window else will redirect to the account page.
 - Registration window will ask for details and register the person.
+
+#Admin page
+- ability to edit the website's pictures and the texts without changing it from the source codes.
