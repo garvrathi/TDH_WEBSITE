@@ -1,0 +1,75 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.modal{
+    height: 100%;
+    width: 100%;
+    background-color:#dddddd;
+    position: absolute;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.modal-content{
+    width: 350px;
+    height: 480px;
+    position: relative;
+    margin: 3% auto;
+    background: #fff;
+    padding: 60px 0 0 70px;
+}
+.modal-form{
+    top: 120px;
+    position: absolute;
+    width: 280px;
+}
+.input-field{
+    width: 100%;
+    padding:10px 0;
+    margin: 5px 0;
+    border-left: 0;
+    border-top: 0;
+    border-right: 0;
+    border-bottom: 1px solid #999;
+    outline: none;
+}
+option{
+    color: black;
+}
+
+.register-btn{
+    width: 85%;
+    padding: 10px 30px;
+    cursor: pointer;
+    display: block;
+    margin: auto;
+    background-color: rgb(95, 6, 95);
+    border: 0;
+    outline: none;
+}
+.check-box{
+    margin: 30px 10px 40px 0;
+}
+.popup {
+    height: 250px;
+    width: 250px;
+    background:rgb(132, 34, 132) ;
+    border-radius: 6px;
+    position: absolute;
+    top: 0;
+    left: 50%;
+    transform: translate(-50%,-50%) scale(0.1);
+    text-align: center;
+    padding: 0 30px 30px;
+    visibility: hidden;
+    transition: transform 0.4s, top 0.4s;
+}
+.open-popup{
+    visibility: visible;
+    top: 50%;
+    transform: translate(-50%,-50%) scale(1);
+}
+.popup h2, h3{
+    margin: 40px 0 40px;
+}
