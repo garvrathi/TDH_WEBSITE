@@ -36,5 +36,5 @@
 - if not registered will open a registration window else will redirect to the account page.
 - Registration window will ask for details and register the person.
 
-#Admin page
+# Admin page
 - ability to edit the website's pictures and the texts without changing it from the source codes.
