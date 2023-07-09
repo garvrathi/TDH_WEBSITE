@@ -1,0 +1,133 @@
+body {
+    background-color:#131313;
+    color: #d0d1d2;
+    font-family: system-ui, "Segoe UI", "Open Sans", "Helvetica Neue", sans-serif;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+  }
+  
+  #nav-nav {
+    margin-left: 300px;
+  }
+  
+  .navbar-inverse .navbar-nav>li>a {
+    color: #201616;
+  }
+
+  #navbar-margin {
+    margin: 0px;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px;
+  }
+  
+  .container-fluid {
+    background-color: white;
+    height: 100px;
+    padding: 30px;
+  }
+  
+  .nav-1,
+  .nav-2,
+  .nav-3,
+  .nav-4,
+  .nav-5 {
+    margin-left: 70px;
+    font-family: sans-serif;
+    font-size: 16px;
+    color: black;
+  }
+
+  .img {
+    height: 55px;
+    display: grid;
+    align-items: center;
+  }
+  
+
+  .abt{
+    color:#ffff;
+    margin-top: 90px;
+  }
+
+  .heading{
+    color:#DBDDDF;
+    font-family: 'Satoshi';
+font-size: 50px;
+font-weight: 500;
+/* line-height: 49px; */
+letter-spacing: 0em;
+/* text-align: left; */
+margin-top: 40px;
+margin-left: 70px;
+
+  }
+
+  .underline1{
+    width: 200px;
+  border-bottom: solid;
+  margin-left: 70px;
+  border-color: #d7fe63;
+  }
+
+  .bg {
+    height: 620px;
+    width: 100%;
+    opacity: 1;
+    display: block;
+  }
+
+.bg-img{
+  position: relative;
+}
+
+.abt-para{
+  margin-left: 70px;
+  margin-top: 20px;
+  font-family: 'Satoshi';
+font-size: 18px;
+margin-right: 20px;
+color: #D0D1D2;
+}
+
+.team{
+  position: absolute;
+  top: 1240px;
+  height: 700px;
+  width: 100%;
+}
+
+.tech-team{
+  position: absolute;
+  width: 390px;
+  height: 49px;
+  margin-left: 70px;
+  font-family: 'Satoshi';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 50px;
+  color:#DBDDDF;
+}
+
+.underline2{
+  border-bottom: solid;
+  margin-left: 80px;
+  border-color: #d7fe63; 
+  width: 223px;
+  position: absolute;
+  top: 138px;
+}
+
+
+.mem-1{
+  width: 134px;
+height: 43px;
+margin-left: 5px;
+font-family: 'Satoshi';
+font-size: 20px;
+font-weight: 500;
+line-height: 43px;
+letter-spacing: 0em;
+text-align: left;
+color:#DBDDDF;
+margin-top:50px;
+}
